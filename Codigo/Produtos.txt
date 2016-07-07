@@ -1,0 +1,2 @@
+80&Cachorro bonito&Cachorro&500.0&7&Bulldog
+90&Gato&Gato&800.0&5&Siames
